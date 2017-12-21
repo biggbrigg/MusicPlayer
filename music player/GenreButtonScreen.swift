@@ -50,6 +50,18 @@ class GenreButtonScreen: UIViewController {
         musicPlayer.play()
     
     }
+   // @IBOutlet weak var albumArt: UIImage!
+   // func image(at size: CGSize) -> UIImage? {
+        
+        
+        
+   // }
     
-    
+ /*   class songInfo: MPNowPlayingInfoCenter {
+        
+        var nowPlayingInfo: [String : Any]? { get set }
+        
+        
+    }
+    */
 }
